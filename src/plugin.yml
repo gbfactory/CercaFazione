@@ -1,0 +1,6 @@
+main: it.factorymine.cerca.Main
+author: gbfactory
+name: RicercaFazione
+version: 1.0
+commands:
+  ricerca:
